@@ -16,9 +16,7 @@ npm install rv-cli -g
     list|l     List all the templates
     init|i     Create a new project
 
-  Example:
-
-		$ rv init
+  Example: $ rv init
 ```
 
 # Commands
@@ -45,9 +43,9 @@ Install a new template!
 $ scion init
 
 ? Select the appropriate template: React-mobx
-	❯ React-mobx
-	  Vue
-	  React-redux
+❯ React-mobx
+  Vue
+  React-redux
 ? Project name: my-project
 ⠹ Downloading template...
 
