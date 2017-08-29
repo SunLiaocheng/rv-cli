@@ -1,0 +1,5 @@
+{
+  "React-redux": "https://github.com/SunLiaocheng/React-redux.git",
+  "React-mobx": "https://github.com/SunLiaocheng/React-mobx.git",
+  "Vue": "https://github.com/SunLiaocheng/Vue-vuex.git"
+}
