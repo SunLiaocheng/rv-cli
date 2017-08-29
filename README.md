@@ -29,11 +29,11 @@ $ scion list
 ┌────────────────┬─────────────────────────────┐
 │ Frame Type     │ Template Name/description   │
 ├────────────────┼─────────────────────────────┤
-│ React-redux    │ react+router+redux 		   │
+│ React-redux    │ react+router+redux          │
 ├────────────────┼─────────────────────────────┤
-│ Vue            │ vue+router+vuex 			   │
+│ Vue            │ vue+router+vuex             │
 ├────────────────┼─────────────────────────────┤
-│ React-mobx     │ react+router+mobx	  	   │
+│ React-mobx     │ react+router+mobx           │
 └────────────────┴─────────────────────────────┘
 ```
 
